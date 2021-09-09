@@ -1,2 +1,2 @@
 # hello-world
-Just my first use of Github.
+Just my second use of Github. My first brach done!
